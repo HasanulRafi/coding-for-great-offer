@@ -422,7 +422,7 @@ public class Code05_RecoverBST {
 		printTree(res11);
 		System.out.println(isBST(res11));
 
-		// ���12, 8 -> e1, 2 -> e2
+		//// ���12, 8 -> e1, 2 -> e2
 		System.out.println("situation 12");
 		Node head12 = new Node(5);
 		head12.left = new Node(3);
